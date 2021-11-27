@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...
 - My ideal is to join T camp
 
-![](../MicrosoftTeams-image (6).png)
+![](https://github.com/JiashengJing/JiashengJing/blob/main/MicrosoftTeams-image%20(6).png)
 
 <!---
 JiashengJing/JiashengJing is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
